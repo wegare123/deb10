@@ -1,4 +1,4 @@
-# deb9-10
+# deb10
 ![IMG_20210327_120525](https://user-images.githubusercontent.com/56117745/112710594-fb0c8c00-8ef4-11eb-9aea-bc8ac3a8d519.jpg)
 <br>
 ![IMG_20210308_210256](https://user-images.githubusercontent.com/56117745/110336927-ee181d80-8057-11eb-823c-5a7fcce2692c.jpg)
