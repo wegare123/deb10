@@ -1,5 +1,5 @@
 # deb10
-![IMG_20210908_131411](https://user-images.githubusercontent.com/56117745/132456345-81223f85-5eff-4c77-82c6-46784ceee75c.jpg)
+![IMG_20210923_171340](https://user-images.githubusercontent.com/56117745/134492918-fe2bd9d0-5d0e-4bee-9a9e-1dadba1465ac.jpg)
 <br>
 ![IMG_20210805_155432](https://user-images.githubusercontent.com/56117745/128322639-9ecac94a-0e44-4059-80d8-b5b73ec99d38.jpg)
 <br>
